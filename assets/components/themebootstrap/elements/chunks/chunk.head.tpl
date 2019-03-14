@@ -10,13 +10,13 @@
 For example: [[++assets_url]]components/themebootstrap/css/slate/bootstrap.min.css-->
 [[MinifyX?
 	&minifyCss=`1`
-	&registerCss=`1`
+	&registerCss=`default`
 	&cssSources=`
 		[[++assets_url]]components/themebootstrap/css/bootstrap.min.css,
 		[[++assets_url]]components/themebootstrap/css/add.css
 	`
 	&minifyJs=`1`
-	&registerJs=`1`
+	&registerJs=`default`
 	&jsSources=`
 		[[++assets_url]]components/themebootstrap/js/bootstrap.min.js
 	`
